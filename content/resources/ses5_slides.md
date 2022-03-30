@@ -5,6 +5,7 @@ description: Lecture presentation on enzyme evolution, in vivo selection systems
   function has previously been described.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/e4541526c32aac52891b03ca4974c4b7_ses5_slides.pdf
 file_type: application/pdf
+parent_uid: d962606f-c6bc-392d-903c-88aa7e027045
 resourcetype: Document
 title: Enzyme Evolution by Genetic Complementation
 uid: e4541526-c32a-ac52-891b-03ca4974c4b7

@@ -5,6 +5,7 @@ description: Lecture presentation on enzyme evolution by bacterial cell surface 
   to surface anchoring motifs or carrier proteins.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008/52e38eceb7dc1762e55f545b4a5d9c23_ses9_slides.pdf
 file_type: application/pdf
+parent_uid: d962606f-c6bc-392d-903c-88aa7e027045
 resourcetype: Document
 title: Enzyme Evolution by Bacterial Cell Surface Display
 uid: 52e38ece-b7dc-1762-e55f-545b4a5d9c23
